@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Soumi-Sen/static/css/main.6d45ec53.chunk.css",
+    "main.js": "/Soumi-Sen/static/js/main.e8cfdbf6.chunk.js",
+    "main.js.map": "/Soumi-Sen/static/js/main.e8cfdbf6.chunk.js.map",
+    "runtime-main.js": "/Soumi-Sen/static/js/runtime-main.ba594288.js",
+    "runtime-main.js.map": "/Soumi-Sen/static/js/runtime-main.ba594288.js.map",
+    "static/js/2.75043c58.chunk.js": "/Soumi-Sen/static/js/2.75043c58.chunk.js",
+    "static/js/2.75043c58.chunk.js.map": "/Soumi-Sen/static/js/2.75043c58.chunk.js.map",
+    "index.html": "/Soumi-Sen/index.html",
+    "precache-manifest.ce4d7e9204d768f21e987478ebaded11.js": "/Soumi-Sen/precache-manifest.ce4d7e9204d768f21e987478ebaded11.js",
+    "service-worker.js": "/Soumi-Sen/service-worker.js",
+    "static/css/main.6d45ec53.chunk.css.map": "/Soumi-Sen/static/css/main.6d45ec53.chunk.css.map",
+    "static/js/2.75043c58.chunk.js.LICENSE.txt": "/Soumi-Sen/static/js/2.75043c58.chunk.js.LICENSE.txt",
+    "static/media/bg4.jpg": "/Soumi-Sen/static/media/bg4.b42b834a.jpg",
+    "static/media/code.jpg": "/Soumi-Sen/static/media/code.0b0c6b6d.jpg",
+    "static/media/sunset2.jpg": "/Soumi-Sen/static/media/sunset2.2f1ccc5f.jpg",
+    "static/media/thobra.jpg": "/Soumi-Sen/static/media/thobra.fb2474a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba594288.js",
+    "static/js/2.75043c58.chunk.js",
+    "static/css/main.6d45ec53.chunk.css",
+    "static/js/main.e8cfdbf6.chunk.js"
+  ]
+}
